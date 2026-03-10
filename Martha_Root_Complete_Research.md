@@ -831,6 +831,101 @@ The allegation that Martha Root created white supremacy websites "with aisuru/ki
 
 **Recommendation**: Treat this operation as highly suspicious until independent verification can be obtained. The Christian Fuchs/Rohrböck connection alone raises severe credibility concerns.
 
+## INVESTIGATION: GitHub Profile hartmannlauterbach
+
+### Profile Overview
+**GitHub Link**: https://github.com/hartmannlauterbach
+**Profile Analysis**: Newly created account (joined February 21, 2026) with concerning content related to conspiracy theories, GRU allegations, and far-right themes.
+
+### Profile Details
+- **Name**: Hartmann Lauterbach
+- **Handle**: hartmannlauterbach
+- **Bio**: "AfD-Wähler! Auch: Rechtskonservativer Aktivist & Lehrer a.D." (AfD voter! Also: Right-conservative activist & retired teacher)
+- **Location**: Langenhagen (Germany)
+- **Organization**: Ehem. Geschwister Scholl Schule (Former Geschwister Scholl School)
+- **Joined**: February 21, 2026 (2 weeks ago)
+- **Social Links**: Instagram @fraeulein_jumpcut
+- **Activity**: 89 commits in 7 repositories (March 2026), 14 repositories created
+
+### Pinned Repositories Analysis
+
+#### 1. cybermobbing-netzwerk
+**Description**: "Traveler Network [Gangstalking / Targeted Individuals / Cybermobbing / Grooming / Pedophiles]"
+**Forked From**: graf-kok-ain/gangstalking-crowd
+**Language**: Python
+**Stars**: 11, Forks: 3
+
+**Analysis**: Repository focused on conspiracy theories about gangstalking, targeted individuals, cyberbullying, and pedophile networks. Indicates interest in extreme conspiracy narratives.
+
+#### 2. ArniTheSavage_AND_schillah
+**Description**: "This is about NWO Gangstalking Crew's AI Musicians Schillah & ArniTheSavage"
+**Stars**: 11, Forks: 5
+
+**Analysis**: Focuses on "New World Order" conspiracy theories linking AI musicians to gangstalking operations. Suggests belief in coordinated harassment campaigns.
+
+#### 3. GRU-influencer-musician-network
+**Description**: "Alle Informationen über das GRU Influencer und Musiker Netzwerk" (All information about the GRU influencer and musician network)
+**Forked From**: secthunter/bloxx-psycho-sect
+**Stars**: 10
+
+**Analysis**: **DIRECT CONNECTION** to GRU allegations. Repository claims to contain information about Russian intelligence (GRU) networks involving influencers and musicians. This directly relates to our GRU investigation.
+
+#### 4. ZENSERY
+**Description**: "GRU musician"
+**Stars**: 10, Forks: 3
+
+**Analysis**: Claims individual "ZENSERY" is a GRU musician, further supporting GRU conspiracy narrative.
+
+#### 5. New_World_Order_Sect
+**Description**: (Empty)
+**Stars**: 9
+
+**Analysis**: Repository about "New World Order Sect" with no description, indicating potential extremist content.
+
+#### 6. KXXMA
+**Description**: "Another musician of the N.W.O. (NSU 2.0) Gangstalking Crowd"
+**Language**: HTML
+**Stars**: 11
+
+**Analysis**: Links musician to "New World Order" and "NSU 2.0" (National Socialist Underground 2.0) gangstalking conspiracy. NSU reference connects to German neo-Nazi terrorism.
+
+### Connection to Martha Root Investigation
+
+#### GRU Network Overlap
+- **Direct GRU References**: Multiple repositories explicitly mention GRU (Russian military intelligence)
+- **Musician Networks**: Claims of GRU-controlled musicians align with Spotify track allegations
+- **Influencer Networks**: GRU influencer network claims connect to social media manipulation investigations
+
+#### Far-Right Connections
+- **AfD Affiliation**: Profile explicitly identifies as AfD voter and right-conservative activist
+- **Neo-Nazi References**: NSU 2.0 references link to German far-right extremism
+- **Conspiracy Themes**: Gangstalking, targeted individuals, pedophile networks common in far-right online communities
+
+#### Technical Analysis
+- **Recent Account**: Created February 2026, very active in March with 89 commits
+- **Repository Focus**: Heavy emphasis on conspiracy theories and alleged intelligence networks
+- **Forking Pattern**: Many repositories forked from other conspiracy-focused accounts
+
+### Potential Significance
+This profile appears to be part of the same conspiracy network we've been investigating:
+
+1. **GRU Allegations**: Direct claims of Russian intelligence involvement in cultural spheres
+2. **Musician Networks**: Aligns with Spotify track allegations of GRU-controlled artists
+3. **Far-Right Ideology**: Explicit AfD affiliation and neo-Nazi references
+4. **Conspiracy Focus**: Emphasis on gangstalking, targeted individuals, pedophile networks
+
+### Investigation Status
+**Profile Verified**: Real GitHub account with concerning content
+**Content Analyzed**: 6 pinned repositories examined for themes and connections
+**Relevance Confirmed**: Strong connections to GRU allegations and far-right conspiracy networks
+**Further Investigation Needed**: Repository contents should be analyzed for specific claims and evidence
+
+**This profile represents a concrete example of the conspiracy networks we've been investigating and may contain evidence supporting or contradicting GRU allegations.**
+
+---
+**Profile Analysis Date: March 10, 2026**
+**Repository Count: 14 created, 22 total**
+
 1. https://www.yahoo.com/news/articles/hacktivist-deletes-white-supremacist-websites-185731964.html
 2. https://futurism.com/artificial-intelligence/tinder-for-nazis-hacked
 3. https://media.ccc.de/v/39c3-the-heartbreak-machine-nazis-in-the-echo-chamber
