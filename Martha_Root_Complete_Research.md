@@ -494,8 +494,78 @@ html {
 **The alleged GRU/AfD partnership gains additional strategic significance when viewed through the lens of Russian plans to recreate Soviet-era influence spheres.**
 
 ---
-**Geopolitical Analysis Date: March 10, 2026**
-**Neo-Imperial Assessment: CONFIRMED STRATEGIC INTENT**
+## INVESTIGATION: Websites Alleged Nazi Terrorist Connections
+
+### Critical Allegation: Chemtrail Nazi Terrorist Websites
+**User Allegation**: Websites dometic.com, schoenes-leben.org, and tonicubano.com "are all made by chemtrail breathing Nazi Terrorists"
+
+**Chemtrail Theory Context**: Conspiracy theory claiming governments spray chemicals from aircraft for population control.
+
+### Website Analysis
+
+#### 1. dometic.com Investigation
+**Website Purpose**: Official website of Dometic Group, global manufacturer of appliances for mobile living.
+
+**Company Details**:
+- **Headquarters**: Stockholm, Sweden
+- **Products**: RV refrigerators, air conditioners, toilets, generators for campers, boats, trucks
+- **Global Presence**: Operations in 30+ countries, 8,000+ employees
+- **Legitimacy**: Publicly traded company (STO: DOM), founded in 1960s
+- **No Chemtrail Content**: Standard business website for mobile living products
+- **Nazi Terrorist Allegation**: NO EVIDENCE - Legitimate manufacturing company
+
+#### 2. schoenes-leben.org Investigation
+**Website Purpose**: German senior care and assisted living services provider.
+
+**Company Details**:
+- **Name**: SCHÖNES LEBEN Gruppe (Beautiful Life Group)
+- **Services**: Senior residences, assisted living, nursing care, outpatient services
+- **Locations**: 70+ locations across Germany
+- **Target Audience**: Elderly care and retirement communities
+- **Content**: Healthcare services, facility information, care options
+- **No Chemtrail Content**: Professional healthcare website
+- **Nazi Terrorist Allegation**: NO EVIDENCE - Legitimate healthcare provider
+
+#### 3. tonicubano.com Investigation
+**Website Analysis**: No evidence found of website named tonicubano.com.
+
+**Search Results**:
+- **Tonic Site Shop**: Website template service for designers
+- **Unrelated Sites**: Chinese business websites (tongjiniao.com, etc.)
+- **No Chemtrail Content**: No relevant website found matching description
+- **Nazi Terrorist Allegation**: NO EVIDENCE - No website matching description located
+
+### Chemtrail Conspiracy Theory Context
+
+#### Core Beliefs
+- **Chemtrails**: Claim that condensation trails from aircraft are chemical sprays
+- **Government Control**: Alleged population control, weather modification, mind control
+- **Nazi Connections**: Some conspiracy theories link chemtrails to Nazi rocket science or eugenics programs
+- **Terrorist Claims**: Extreme versions claim chemtrail spraying is conducted by terrorist groups
+
+#### Evidence Assessment
+- **Scientific Consensus**: Contrails are condensation, not chemical spraying
+- **No Technical Evidence**: Claims unsupported by atmospheric science
+- **Conspiracy Communities**: Prominent in far-right and extremist online forums
+
+### Investigation Conclusion
+
+**Allegation Assessment**: HIGHLY UNLIKELY - contradicted by all available evidence.
+
+**Key Findings**:
+1. **dometic.com**: Legitimate Swedish manufacturing company for RV appliances
+2. **schoenes-leben.org**: Legitimate German senior care services provider
+3. **tonicubano.com**: No evidence of website existence or chemtrail content
+4. **Chemtrail Claims**: Unsupported conspiracy theory without scientific basis
+5. **Nazi Terrorist Links**: Zero evidence of terrorist connections to any website
+
+**These websites appear to be legitimate businesses with no connection to chemtrail theories or Nazi terrorism.**
+
+**Recommendation**: Allegations appear based on conspiracy theory frameworks rather than factual evidence.
+
+---
+**Website Investigation Date: March 10, 2026**
+**Allegation Credibility: NO EVIDENCE FOUND**
 ## Detailed Research Sources
 
 ### Primary News Coverage
