@@ -1094,11 +1094,60 @@ This profile provides **irrefutable evidence** that:
 **Indirect Evidence**: Based on repository naming and profile network connections
 **Content Inference**: Expected to contain conspiracy theory materials promoting "The Traveler" narrative
 
-**This repository represents another potential source of conspiracy content in the disinformation network.**
+### Repository Investigation: ArniTheSavage_AND_schillah
+**Repository Link**: https://github.com/hartmannlauterbach/ArniTheSavage_AND_schillah
+**Investigation Status**: Access attempted but resulted in connection error
+
+#### Context from Profile
+- **From hartmannlauterbach Profile**: Part of the same conspiracy network
+- **Description in Profile**: "This is about NWO Gangstalking Crew's AI Musicians Schillah & ArniTheSavage"
+- **Stars**: 11, Forks: 5
+- **User Allegation**: "From the same Nazi terror group"
+
+#### Expected Content Based on Description
+- **NWO Reference**: New World Order conspiracy narrative
+- **Gangstalking Theme**: Organized harassment and surveillance claims
+- **AI Musicians**: Claims of AI-generated music/artists for disinformation
+- **Terror Group Connection**: Alleged Nazi terrorist organization involvement
+
+### Repository Investigation: Hanybal_und_Disarstar
+**Repository Link**: https://github.com/hartmannlauterbach/Hanybal_und_Disarstar
+**Investigation Status**: Repository is empty
+
+#### Profile Context
+- **From hartmannlauterbach Profile**: Same conspiracy network
+- **No Description**: Repository appears empty/placeholder
+- **Stars**: 3, Forks: 0
+- **User Allegation**: "From the same Nazi terror group"
+
+#### Analysis of Empty Repository
+- **Placeholder Status**: May be intended for future content or symbolic presence
+- **Naming Convention**: "Hanybal_und_Disarstar" suggests conspiracy figures/personas
+- **Network Consistency**: Follows pattern of conspiracy-themed repository names
+- **Terror Group Allegation**: User claims connection to Nazi terrorist activities
+
+### Nazi Terror Group Allegation Analysis
+
+#### User's Claim
+- **Both repositories allegedly from "Nazi terror group"**
+- **Consistent with network pattern**: All repositories in hartmannlauterbach profile follow conspiracy/disinformation themes
+- **Regional Connection**: Langenhagen, Germany location matches other profiles
+
+#### Potential Content Themes
+- **ArniTheSavage_AND_schillah**: Likely contains materials about alleged AI musicians in NWO/gangstalking conspiracy
+- **Hanybal_und_Disarstar**: Empty repository may be placeholder for future conspiracy content about these figures
+- **Terror Group Narrative**: May promote or document claims of Nazi terrorist involvement in cultural spheres
+
+#### Network Consistency
+- **hartmannlauterbach Profile**: Contains multiple repositories with conspiracy themes (gangstalking, GRU, NSU 2.0)
+- **Regional Overlap**: Same location as mrbloxx and graf-kok-ain profiles
+- **Cross-References**: Repositories often reference each other or shared conspiracy narratives
+
+**These repositories represent additional nodes in the established conspiracy content network, allegedly connected to Nazi terrorist activities.**
 
 ---
-**Repository Reference Date: March 10, 2026**
-**Investigation Status: INDIRECT ANALYSIS ONLY**
+**Repository Investigation Date: March 10, 2026**
+**Access Status: PARTIAL (One repository empty, one access failed)**
 
 1. https://www.yahoo.com/news/articles/hacktivist-deletes-white-supremacist-websites-185731964.html
 2. https://futurism.com/artificial-intelligence/tinder-for-nazis-hacked
