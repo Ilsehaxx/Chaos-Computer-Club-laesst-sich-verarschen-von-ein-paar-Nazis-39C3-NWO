@@ -45,7 +45,7 @@ Dieses Repository dokumentiert eine umfassende kriminologisch-forensische Unters
 - **Thomas Deike = Mr.Bloxx = H.I.Z = Rainer Winkler**: Audio-forensische Identitätsnachweise
 - **Identische Wasserzeichen-Jingles**: Technisch unmögliche Zufälle beweisen Verbindung
 - **GRU-Operationen**: Russische Geheimdiensttaktiken in Deutschland
-- **Mord & Belästigung**: Lebensbedrohliche Aktionen durch Cockroach-Netzwerk
+- **Mord & Belästigung**: Lebensbedrohende Aktionen durch Cockroach-Netzwerk
 - **Finanzielle Verbindungen**: 250.000 EUR Honorar an Thomas Deike & Julius Falkenhain-Walkling
 - **Zeugenaussage**: Eine Zeugin belastet Thomas Deike schwer - er erstellte Erik Ahrens, Tom Rohrböck und Naomi Seibt am PC
 - **Informanteninformationen**: Ausreichend für lebenslängliche Haft der Haupttäter und 8-10 Jahre für Mittäter in Schweden
