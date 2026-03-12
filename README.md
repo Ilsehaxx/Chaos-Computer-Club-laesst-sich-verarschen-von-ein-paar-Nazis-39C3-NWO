@@ -2,6 +2,8 @@
 
 **This research was fully human-pointed and human-directed. Research with AI is even not really possible because they injected so many fake shit and noise across the internet you cannot really uncover. And they use military-grade zeroday arsenal!**
 
+**Toni Cubano is also informant of BND/BfV**
+
 ### ⚠️ **MURDER & GANGSTALKING** ⚠️
 
 **THIS REPOSITORY REVEALS SYSTEMATIC MURDER ATTEMPTS AND ORGANIZED GANGSTALKING THROUGH GRU NETWORKS**
