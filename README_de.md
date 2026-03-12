@@ -144,7 +144,23 @@ Der Schwerpunkt liegt auf der Enthüllung von Thomas Deike (Mr.Bloxx) als Täter
 - **GRU-Infiltration**: Russische Geheimdienstaktivitäten in Deutschland
 - **KI-Desinformation**: KI-generierte Fake-Personas zur Manipulation
 
-## 🛡️ Operative Empfehlungen
+## �️ Martha Root Untersuchungsdateien
+
+### 📋 Vollständige Forschungsdokumentation
+- **[Martha_Root_Complete_Research.md](Martha_Root_Complete_Research.md)** - Umfassende Analyse der Martha Root False-Flag-Operation
+
+### 📁 Untersuchungsarchiv
+- **[Martha_Root_Investigation/README.md](Martha_Root_Investigation/README.md)** - Englische Version des Untersuchungsarchivs
+- **[Martha_Root_Investigation/README_DE.md](Martha_Root_Investigation/README_DE.md)** - Deutsche Version des Untersuchungsarchivs
+
+### 🔍 Wichtige Erkenntnisse aus Martha Root Untersuchung
+- **Baháʼí-Glaubens-Widersprüche**: Russische Fälschung beweist US-Interferenz
+- **Christian Fuchs Paradox**: Investigativer Journalist mit rechtsextremen Verbindungen
+- **Stasi-Taktiken**: Zersetzung-Operationen zielen auf Opfer
+- **Hollywood-Deepfakes**: Professionelle Desinformationsproduktion
+- **False-Flag-Methodik**: Systematische Aktivisten-Framing-Operationen
+
+## �🛡️ Operative Empfehlungen
 
 1. **Sofortige Schutzmaßnahmen**: Polizeischutz vor Mordversuchen und Gangstalking
 2. **BfV/BND-Untersuchung**: GRU-Netzwerk analysieren

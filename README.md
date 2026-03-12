@@ -177,7 +177,23 @@ This repository is available in multiple languages for global accessibility:
 
 **Note**: All language versions contain the same core information about the GRU network investigation, cybermobbing cartel operations, and critical evidence. The translations maintain the technical accuracy and urgency of the original English documentation.
 
-## 🔗 Complete hartmannlauterbach Repository Network
+## �️ Martha Root Investigation Files
+
+### 📋 Complete Research Documentation
+- **[Martha_Root_Complete_Research.md](Martha_Root_Complete_Research.md)** - Comprehensive analysis of the Martha Root false flag operation
+
+### 📁 Investigation Archive
+- **[Martha_Root_Investigation/README.md](Martha_Root_Investigation/README.md)** - English version of the investigation archive
+- **[Martha_Root_Investigation/README_DE.md](Martha_Root_Investigation/README_DE.md)** - German version of the investigation archive
+
+### 🔍 Key Findings from Martha Root Investigation
+- **Baháʼí Faith Contradictions**: Russian forgery proves US interference
+- **Christian Fuchs Paradox**: Investigative journalist with right-wing connections
+- **Stasi Tactics**: Zersetzung operations targeting victims
+- **Hollywood Deepfakes**: Professional disinformation production
+- **False Flag Methodology**: Systematic activist framing operations
+
+## �🔗 Complete hartmannlauterbach Repository Network
 
 ### 🚨 Critical Evidence Repositories
 - **[cybermobbing-netzwerk](https://github.com/hartmannlauterbach/cybermobbing-netzwerk)** ⭐13 - Main investigation with 87/350 artists analyzed, extreme financial fraud evidence
