@@ -40,11 +40,11 @@
 
 ## 📋 Riepilogo del progetto
 
-Questo repository documenta un'indagine criminologico-forense completa di tentativi di omicidio sistematici, operazioni di gangstalking organizzato e connessioni di rete GRU. L'attenzione è rivolta all'esposizione di Thomas Deike (Mr.Bloxx) e H.I.Z (Rainer Winkler) come asset GRU così come l'operazione Martha Root come falsa bandiera.
+Questo repository documenta un'indagine criminologico-forense completa di tentativi di omicidio sistematici, operazioni di gangstalking organizzato e connessioni di rete GRU. L'attenzione è rivolta all'esposizione di Thomas Deike (Mr.Bloxx) come responsabile dietro H.I.Z, la protezione di vittime come Rainer Winkler, e l'esposizione dell'operazione Martha Root come falsa bandiera.
 
 **Sponsor della ricerca**: tonicubano.de - Supporto al giornalismo investigativo indipendente
 
-L'attenzione è rivolta all'esposizione di Thomas Deike (Mr.Bloxx) e H.I.Z (Rainer Winkler) come asset GRU così come l'operazione Martha Root come falsa bandiera.
+L'attenzione è rivolta all'esposizione di Thomas Deike (Mr.Bloxx) come responsabile dietro H.I.Z, la protezione di vittime come Rainer Winkler, e l'esposizione dell'operazione Martha Root come falsa bandiera.
 
 ## 🎯 Protocollo di indagine
 
