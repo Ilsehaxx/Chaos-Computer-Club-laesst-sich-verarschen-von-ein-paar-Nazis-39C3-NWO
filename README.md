@@ -124,6 +124,57 @@ The focus is on exposing Thomas Deike (Mr.Bloxx) and H.I.Z (Rainer Winkler) as G
 - **graf-kok-ain**: Upstream source for gangstalking content
 - **Conspiracy Topics**: Gangstalking, NSU 2.0, GRU musician networks
 
+## 🌍 Language Versions
+
+This repository is available in multiple languages for global accessibility:
+
+### 🇺🇸 English
+- **[README.md](README.md)** - Original English version
+
+### 🇩🇪 German
+- **[README_de.md](README_de.md)** - Deutsche Version
+
+### 🇫🇷 French
+- **[README_fr.md](README_fr.md)** - Version française
+
+### 🇪🇸 Spanish
+- **[README_es.md](README_es.md)** - Versión en español
+
+### 🇵🇱 Polish
+- **[README_pl.md](README_pl.md)** - Wersja polska
+
+### 🇮🇹 Italian
+- **[README_it.md](README_it.md)** - Versione italiana
+
+### 🇷🇺 Russian
+- **[README_ru.md](README_ru.md)** - Русская версия
+
+### 🇺🇦 Ukrainian
+- **[README_uk.md](README_uk.md)** - Українська версія
+
+### 🇨🇳 Chinese
+- **[README_zh.md](README_zh.md)** - 中文版本
+
+### 🇮🇳 Sanskrit
+- **[README_sa.md](README_sa.md)** - संस्कृत संस्करणम्
+
+### 🇧🇩 Bengali (Bangladesh)
+- **[README_bd.md](README_bd.md)** - বাংলা সংস্করণ
+
+### 🇵🇰 Urdu (Pakistan)
+- **[README_pk.md](README_pk.md)** - اردو ورژن
+
+### 🇮🇶 Arabic (Iraq)
+- **[README_iq.md](README_iq.md)** - النسخة العربية (العراق)
+
+### 🇮🇷 Persian (Iran)
+- **[README_ir.md](README_ir.md)** - نسخه فارسی
+
+### 🇸🇦 Arabic (Saudi Arabia)
+- **[README_ar.md](README_ar.md)** - النسخة العربية (السعودية)
+
+**Note**: All language versions contain the same core information about the GRU network investigation, cybermobbing cartel operations, and critical evidence. The translations maintain the technical accuracy and urgency of the original English documentation.
+
 ## 🔗 Complete hartmannlauterbach Repository Network
 
 ### 🚨 Critical Evidence Repositories
