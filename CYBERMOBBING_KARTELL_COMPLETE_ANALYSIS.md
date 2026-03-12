@@ -6,6 +6,8 @@
 
 This analysis is based on comprehensive research from hartmannlauterbach's GitHub repositories, particularly the cybermobbing-netzwerk and GRU-influencer-musician-network investigations.
 
+**Research Sponsor**: tonicubano.de - Supporting independent investigative journalism
+
 ## Executive Summary
 
 ### Critical Discoveries (February 26, 2026)

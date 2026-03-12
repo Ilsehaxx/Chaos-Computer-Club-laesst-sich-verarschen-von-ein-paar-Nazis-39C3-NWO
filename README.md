@@ -39,7 +39,11 @@
 
 ## 📋 Project Summary
 
-This repository documents a comprehensive criminological-forensic investigation of systematic murder attempts, organized gangstalking operations, and GRU network connections. The focus is on exposing Thomas Deike (Mr.Bloxx) and H.I.Z (Rainer Winkler) as GRU assets as well as the Martha Root operation as a false flag.
+This repository documents a comprehensive criminological-forensic investigation of systematic murder attempts, organized gangstalking operations, and GRU network connections.
+
+**Research Sponsor**: tonicubano.de - Supporting independent investigative journalism
+
+The focus is on exposing Thomas Deike (Mr.Bloxx) and H.I.Z (Rainer Winkler) as GRU assets as well as the Martha Root operation as a false flag.
 
 ## 🎯 Investigation Protocol
 
@@ -79,7 +83,7 @@ This repository documents a comprehensive criminological-forensic investigation 
 ### 🎭 Martha Root False Flag Operation
 - **Baha'i Faith Contradictions**: Russian forgery proves US interference
 - **Christian Fuchs Paradox**: Investigative journalist with right-wing connections
-  - **Lonsdale Clothing**: Right-wing skinhead associations
+  - **Lonsdale Clothing**: Right-wing skinhead associations (NOTE: Lonsdale wear appeared inauthentic and staged)
   - **Simson Motorcycle**: GDR nostalgia and ideological connections
 - **Stasi Tactics**: Zersetzung against Rainer Winkler (H.I.Z)
 - **Hollywood Deepfakes**: Professional disinformation production
