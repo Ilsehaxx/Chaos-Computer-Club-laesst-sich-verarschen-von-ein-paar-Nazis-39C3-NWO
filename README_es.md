@@ -81,12 +81,13 @@ El enfoque está en exponer a Thomas Deike (Mr.Bloxx) y H.I.Z (Rainer Winkler) c
 - **Situaciones que amenazan la vida**: Peligros físicos directos
 
 ### 🎭 Operación de falsa bandera Martha Root
-- **Contradicciones de fe Baháʼí**: Falsificación rusa prueba interferencia estadounidense
+- **Contradicciones fe Baháʼí**: Falsificación rusa prueba interferencia estadounidense
 - **Paradoja Christian Fuchs**: Periodista de investigación con conexiones de extrema derecha
   - **Ropa Lonsdale**: Asociaciones skinhead de extrema derecha (NOTA: Ropa Lonsdale parecía no auténtica y escenificada)
   - **Motocicleta Simson**: Nostalgia RDA y conexiones ideológicas
 - **Tácticas Stasi**: Zersetzung contra Rainer Winkler (H.I.Z)
-- **Deepfakes de Hollywood**: Producción de desinformación profesional
+- **Deepfakes Hollywood**: Producción de desinformación profesional
+- **🚨 PERSPECTIVA CRÍTICA**: Un hacker sofisticado como Martha Root (Pink Power Ranger) **NUNCA** usaría botnets para autopublicidad en patrones idénticos documentados por hartmannlauterbach y kjedrdev. Esto revela la operación como **falsa bandera** diseñada para incriminar a activistas legítimos mientras enmascara a los verdaderos perpetradores GRU detrás de huellas digitales fabricadas.
 
 ### 🤖 Personas falsas IA y desinformación
 - **Naomi Seibt**: Persona anti-Greta generada GRU
