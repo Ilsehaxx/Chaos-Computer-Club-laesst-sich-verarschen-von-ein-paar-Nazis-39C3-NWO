@@ -254,6 +254,18 @@ This repository is available in multiple languages for global accessibility:
 - **AI musician network**: 87/350 artists analyzed revealing systematic manipulation
 - **Russian intelligence integration**: Direct GRU/FSB/SVR cooperation documented
 
+## 🌍 Language Versions
+
+- **[English](README.md)** (English - Main Version)
+- **[Deutsch](README_de.md)** (German)
+- **[Français](README_fr.md)** (French)
+- **[Italiano](README_it.md)** (Italian)
+- **[Español](README_es.md)** (Spanish)
+- **[Polski](README_pl.md)** (Polish)
+- **[Українська](README_uk.md)** (Ukrainian)
+
+---
+
 ## ⚠️ Threat Analysis
 
 **EXTREME DANGER** from coordinated GRU operations:
