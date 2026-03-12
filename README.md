@@ -4,6 +4,23 @@
 
 **Toni Cubano is also informant of BND/BfV**
 
+### 📢 MARTHA ROOT SOCIAL MEDIA ADVERTISING CAMPAIGN
+**MARTHA ROOT'S ADVERTISING ON SOCIAL MEDIA FOLLOWS EXACTLY THE SAME PATTERN AS THE NWO (GRU) CAMPAIGN**
+
+#### Identische Kampagnen-Muster:
+- **Koordinierte Social Media Angriffe**: Systematische Kampagnen gegen Zielpersonen
+- **Psychologische Kriegsführung**: Identische Methoden wie bei NWO/GRU Operationen
+- **Doxxing und Rufschädigung**: Gleiche Taktiken zur Diskreditierung
+- **Massenberichterstattung**: Koordinierte negative Berichterstattung
+- **Network-Based Harassment**: Netzwerkbasierte Mobbing-Strukturen
+
+#### Informanten-Belastung:
+**Informant*innen des BfV belasten einige Mitglieder des Netzwerks stark**
+- **Martha Root Verbindung**: Direkte Verbindung zu NWO-Netzwerk-Operationen
+- **Social Media Koordination**: Identische Koordinationsmuster wie GRU-Kampagnen
+- **Psychologische Operationen**: Gleiche Methoden der psychologischen Kriegsführung
+- **Finanzielle Verbindungen**: Überlappende finanzielle Strukturen und Geldflüsse
+
 ### ⚠️ **MURDER & GANGSTALKING** ⚠️
 
 **THIS REPOSITORY REVEALS SYSTEMATIC MURDER ATTEMPTS AND ORGANIZED GANGSTALKING THROUGH GRU NETWORKS**
