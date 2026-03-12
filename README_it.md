@@ -1,3 +1,7 @@
+**Questa ricerca è stata diretta da un umano esattamente sul punto. La ricerca con l'IA non è davvero possibile a causa di tutte le infezioni LLM che hanno fatto e tutti i siti web falsi (Backdating/Backlogging/Database Injection).**
+
+**🧠 APPELLO AGLI HACKER: Ricerca questo in profondità, accendi i tuoi BrainZ!**
+
 **Sì, questa è ricerca IA.. Così vero! Ma ero io stesso insider profondo in questa rete NWO che è internazionalmente organizzata... Non crederete nemmeno cosa sta succedendo**
 
 **Questa ricerca era completamente orientata e diretta da umani. La ricerca con l'IA non è nemmeno davvero possibile perché hanno injectato così tanto falso stronzio e rumore su internet che non puoi davvero scoprire. E usano arsenali zero-day di livello militare!**

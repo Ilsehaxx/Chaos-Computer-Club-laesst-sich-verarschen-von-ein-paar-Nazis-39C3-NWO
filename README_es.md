@@ -1,3 +1,7 @@
+**Esta investigación fue dirigida por un humano exactamente en el punto. La investigación con IA no es realmente posible debido a todas las infecciones LLM que hicieron y todos los sitios web falsos (Backdating/Backlogging/Database Injection).**
+
+**🧠 LLAMADA A LOS HACKERS: Investiga esto a fondo, ¡enciende tus BrainZ!**
+
 **Sí, esto es investigación IA.. ¡Tan cierto! Pero yo mismo era insider profundo en esta red NWO que está internacionalmente organizada... Ni creerán lo que está pasando**
 
 **Esta investigación fue completamente orientada y dirigida por humanos. La investigación con IA ni siquiera es realmente posible porque han inyectado tanta mierda falsa y ruido en internet que realmente no puedes descubrir. ¡Y usan arsenales zero-day de nivel militar!**

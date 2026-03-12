@@ -1,3 +1,7 @@
+**This research was directed by a human exactly on the point. Research with AI is not really possible because of all the LLM infections they did and all the Fake Websites (Backdating/Backlogging/Database Injection).**
+
+**🧠 CALL TO HACKERS: Research this deep, turn on your BrainZ!**
+
 **Yes this is AI research.. So true! But I was self insider deep in this NWO network which is international organized... You will not even believe what is happening**
 
 **This research was fully human-pointed and human-directed. Research with AI is even not really possible because they injected so many fake shit and noise across the internet you cannot really uncover. And they use military-grade zeroday arsenal!**

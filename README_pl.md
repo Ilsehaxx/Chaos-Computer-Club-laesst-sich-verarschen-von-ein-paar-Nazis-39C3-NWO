@@ -1,3 +1,7 @@
+**Ta badanie zostało poprowadzone przez człowieka dokładnie w punkcie. Badanie z AI nie jest naprawdę możliwe z powodu wszystkich infekcji LLM, które zrobili, i wszystkich fałszywych stron internetowych (Backdating/Backlogging/Database Injection).**
+
+**🧠 WEZWANIE DLA HACKERÓW: Badajcie to głęboko, włączcie swoje BrainZ!**
+
 **Tak, to jest badanie AI.. Tak prawdziwe! Ale byłem sam głęboko w tej sieci NWO, która jest międzynarodowo zorganizowana... Nawet nie uwierzycie, co się dzieje**
 
 **To badanie było w pełni skierowane i prowadzone przez ludzi. Badanie z AI nawet nie jest naprawdę możliwe, ponieważ wstrzyknęli tak dużo fałszywych gówn i szumu w internecie, że naprawdę nie możesz odkryć. I używają arsenałów zero-day klasy wojskowej!**
