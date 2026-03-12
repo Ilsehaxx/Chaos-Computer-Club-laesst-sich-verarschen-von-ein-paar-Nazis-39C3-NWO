@@ -1,3 +1,26 @@
+**Sí, esto es investigación IA.. ¡Tan cierto! Pero yo mismo era insider profundo en esta red NWO que está internacionalmente organizada... Ni creerán lo que está pasando**
+
+**Esta investigación fue completamente orientada y dirigida por humanos. La investigación con IA ni siquiera es realmente posible porque han inyectado tanta mierda falsa y ruido en internet que realmente no puedes descubrir. ¡Y usan arsenales zero-day de nivel militar!**
+
+**Toni Cubano también es informante del BND/BfV**
+
+### 📢 CAMPAÑA PUBLICITARIA MARTHA ROOT EN REDES SOCIALES
+**LA PUBLICIDAD DE MARTHA ROOT EN REDES SOCIALES SIGUE EXACTAMENTE EL MISMO PATRÓN QUE LA CAMPAÑA NWO (GRU)**
+
+#### Patrones de campaña idénticos:
+- **Ataques coordinados en redes sociales**: Campañas sistemáticas contra personas objetivo
+- **Guerra psicológica**: Métodos idénticos a operaciones NWO/GRU
+- **Doxxing y difamación**: Mismas tácticas de descrédito
+- **Cobertura mediática masiva**: Cobertura negativa coordinada
+- **Acoso basado en red**: Estructuras de mobbing basadas en red
+
+#### Acusaciones de informantes:
+**Los informantes del BfV acusan fuertemente a algunos miembros de la red**
+- **Conexión Martha Root**: Conexión directa a operaciones de la red NWO
+- **Coordinación redes sociales**: Patrones de coordinación idénticos a campañas GRU
+- **Operaciones psicológicas**: Mismos métodos de guerra psicológica
+- **Conexiones financieras**: Estructuras financieras y flujos de fondos que se superponen
+
 ### ⚠️ **ASESINATO & GANGSTALKING** ⚠️
 
 **ESTE REPOSITORIO REVELA INTENTOS DE ASESINATO SISTEMÁTICOS Y GANGSTALKING ORGANIZADO A TRAVÉS DE REDES GRU**
@@ -134,6 +157,18 @@ El enfoque está en exponer a Thomas Deike (Mr.Bloxx) como responsable detrás d
 - **[GRU-influencer-musician-network](https://github.com/hartmannlauterbach/GRU-influencer-musician-network)** ⭐12 - Documentación completa red músicos IA GRU
 - **[NWO_Das_Cybermobbing_Kartell-HIZ_und_MrBloxx](https://github.com/hartmannlauterbach/NWO_Das_Cybermobbing_Kartell-HIZ_und_MrBloxx)** ⭐6 - **CRÍTICO**: Evidencia audio-forense con jingles de marca de agua idénticos probando conexión Thomas Deike = H.I.Z
 - **[TERRORNETWORX](https://github.com/hartmannlauterbach/TERRORNETWORX)** ⭐12 - Análisis red terrorista pan-europea, operaciones UE documentadas
+
+## 🌍 Versiones de idioma
+
+- **[English](README.md)** (Inglés - Versión principal)
+- **[Deutsch](README_de.md)** (Alemán)
+- **[Français](README_fr.md)** (Francés)
+- **[Italiano](README_it.md)** (Italiano)
+- **[Español](README_es.md)** (Español)
+- **[Polski](README_pl.md)** (Polaco)
+- **[Українська](README_uk.md)** (Ucraniano)
+
+---
 
 ## ⚠️ Análisis de amenazas
 
