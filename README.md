@@ -9,13 +9,14 @@
 - **Life-Threatening Situations**: Multiple attempted killings through coordinated actions
 
 ### 🦗 GRU Network Connections
-**THOMAS DEIKE (MR.BLOXX) = H.I.Z (RAINER WINKLER) - AUDIO-FORENSIC EVIDENCE**
+**THOMAS DEIKE (MR.BLOXX) = H.I.Z - AUDIO-FORENSIC EVIDENCE**
 - **Identical Watermark Jingles**: Scientifically proven matches in MP3 files
 - **Mr.Bloxx - Die Welt Von Oben.mp3** & **H.I.Z - Warum liegt da ne Wurst.mp3**
 - **Production Environment**: Same studio conditions prove direct connection
 - **GRU Network**: Russian intelligence operations in Germany
 - **Finanzielle Verbindungen**: 250.000 EUR Honorar an Thomas Deike & Julius Falkenhain-Walkling
 - **Zeugenaussage**: Eine Zeugin belastet Thomas Deike schwer - er erstellte Erik Ahrens, Tom Rohrböck und Naomi Seibt am PC
+- **Victim Targeting**: Rainer Winkler is one of the most prominent victims of the NWO group
 - **1,2 Milliarden EUR Betrugsnetzwerk**: https://github.com/hartmannlauterbach/cybermobbing-netzwerk
 
 ### 🚨 CYBERMOBBING KARTELL - EXTREME FINANZBETRUGSOPERATION
@@ -65,12 +66,13 @@ The focus is on exposing Thomas Deike (Mr.Bloxx) and H.I.Z (Rainer Winkler) as G
 ## 🔍 Key Findings
 
 ### 🦗 GRU Network Analysis
-- **Thomas Deike = Mr.Bloxx = H.I.Z = Rainer Winkler**: Audio-forensic identity proofs
+- **Thomas Deike = Mr.Bloxx = H.I.Z**: Audio-forensic identity proofs
 - **Identical Watermark Jingles**: Technically impossible coincidences prove connection
 - **GRU Operations**: Russian intelligence tactics in Germany
 - **Murder & Harassment**: Life-threatening actions by organized network
 - **Financial Connections**: 250,000 EUR fee to Thomas Deike & Julius Falkenhain-Walkling
 - **Witness Testimony**: A witness heavily implicates Thomas Deike - he created Erik Ahrens, Tom Rohrböck and Naomi Seibt on his PC
+- **Victim Targeting**: Rainer Winkler is one of the most prominent victims of the NWO group
 - **Informant Information**: Sufficient for life imprisonment of main perpetrators and 8-10 years for accomplices in Sweden
 - **1.2 Billion EUR Fraud Network**: https://github.com/hartmannlauterbach/cybermobbing-netzwerk
 
@@ -85,7 +87,7 @@ The focus is on exposing Thomas Deike (Mr.Bloxx) and H.I.Z (Rainer Winkler) as G
 - **Christian Fuchs Paradox**: Investigative journalist with right-wing connections
   - **Lonsdale Clothing**: Right-wing skinhead associations (NOTE: Lonsdale wear appeared inauthentic and staged)
   - **Simson Motorcycle**: GDR nostalgia and ideological connections
-- **Stasi Tactics**: Zersetzung against Rainer Winkler (H.I.Z)
+- **Stasi Tactics**: Zersetzung operations targeting victims like Rainer Winkler
 - **Hollywood Deepfakes**: Professional disinformation production
 - **🚨 CRITICAL INSIGHT**: A sophisticated hacker like Martha Root (Pink Power Ranger) would **NEVER** use botnets for self-advertisement in the identical patterns documented by hartmannlauterbach and kjedrdev. This reveals the operation as a **false flag** designed to frame legitimate activists while masking the real GRU perpetrators behind manufactured digital footprints.
 
