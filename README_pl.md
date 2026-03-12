@@ -87,6 +87,7 @@ Nacisk kładziony jest na ujawnienie Thomasa Deike (Mr.Bloxx) i H.I.Z (Rainera W
   - **Motocykl Simson**: Nostalgia NRD i powiązania ideologiczne
 - **Taktyki Stasi**: Zersetzung przeciwko Rainerowi Winklerowi (H.I.Z)
 - **Deepfakes Hollywood**: Profesjonalna produkcja dezinformacji
+- **🚨 KRYTYCZNA WNIOSKI**: Wyrafinowany haker jak Martha Root (Pink Power Ranger) **NIGDY** nie użyłby botnetów do autopromocji w identycznych wzorcach udokumentowanych przez hartmannlauterbach i kjedrdev. To ujawnia operację jako **fałszywą flagę** zaprojektowaną do skompromitowania legalnych aktywistów, podczas gdy prawdziwi sprawcy GRU są maskowani za wytworzonymi cyfrowymi śladami.
 
 ### 🤖 Fałszywe osoby AI i dezinformacja
 - **Naomi Seibt**: Osoba anty-Greta wygenerowana przez GRU
