@@ -60,7 +60,7 @@ Der Schwerpunkt liegt auf der Enthüllung von Thomas Deike (Mr.Bloxx) als Täter
 - `CYBERMOBBING.md` - Online-Belästigung und Morddrohungen
 - `Forensisch_Wissenschaftliche_Evidenz_Zusammenfassung.md` - Wissenschaftliche Beweisgrundlage
 - `THOMAS_DEIKE_RESEARCH.md` (integriert) - GRU-Netzwerk-Untersuchung
-- `HIZ_RAINER_WINKLER_RESEARCH.md` (integriert) - Identitätsanalyse
+- `HIZ_RAINER_WINKLER_RESEARCH.md` (integriert) - Opferanalyse
 - `BEWEISSICHERUNG_MIT_DREI_S.md` (integriert) - Sicherheitsstrategien
 
 ## 🔍 Wichtige Erkenntnisse

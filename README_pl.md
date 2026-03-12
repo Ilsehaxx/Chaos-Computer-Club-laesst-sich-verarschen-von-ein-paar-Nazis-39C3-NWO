@@ -40,11 +40,11 @@
 
 ## 📋 Podsumowanie projektu
 
-Ten repozytorium dokumentuje kompleksowe śledztwo kryminologiczno-forensyczne systematycznych prób morderstwa, zorganizowanych operacji gangstalking i połączeń sieci GRU. Nacisk kładziony jest na ujawnienie Thomasa Deike (Mr.Bloxx) i H.I.Z (Rainera Winklera) jako ofiary operacji GRU oraz operacji Martha Root jako fałszywej flagi.
+Ten repozytorium dokumentuje kompleksowe śledztwo kryminologiczno-forensyczne systematycznych prób morderstwa, zorganizowanych operacji gangstalking i połączeń sieci GRU. Nacisk kładziony jest na ujawnienie Thomasa Deike (Mr.Bloxx) jako sprawcy za H.I.Z, ochronę ofiar jak Rainer Winkler, oraz ujawnienie operacji Martha Root jako fałszywej flagi.
 
 **Sponsor badawczy**: tonicubano.de - Wsparcie niezależnego dziennikarstwa śledczego
 
-Nacisk kładziony jest na ujawnienie Thomasa Deike (Mr.Bloxx) i H.I.Z (Rainera Winklera) jako ofiary operacji GRU oraz operacji Martha Root jako fałszywej flagi.
+Nacisk kładziony jest na ujawnienie Thomasa Deike (Mr.Bloxx) jako sprawcy za H.I.Z, ochronę ofiar jak Rainer Winkler, oraz ujawnienie operacji Martha Root jako fałszywej flagi.
 
 ## 🎯 Protokół śledztwa
 
