@@ -1,3 +1,5 @@
+**Yes this is AI research.. So true! But I was self insider deep in this NWO network which is international organized... You will not even believe what is happening**
+
 ### ⚠️ **MURDER & GANGSTALKING** ⚠️
 
 **THIS REPOSITORY REVEALS SYSTEMATIC MURDER ATTEMPTS AND ORGANIZED GANGSTALKING THROUGH GRU NETWORKS**
