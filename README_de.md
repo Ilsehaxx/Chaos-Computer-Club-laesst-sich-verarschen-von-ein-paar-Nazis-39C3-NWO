@@ -40,11 +40,11 @@
 
 ## 📋 Projektzusammenfassung
 
-Dieses Repository dokumentiert eine umfassende kriminologisch-forensische Untersuchung systematischer Mordversuche, organisierter Gangstalking-Operationen und GRU-Netzwerkverbindungen. Der Schwerpunkt liegt auf der Enthüllung von Thomas Deike (Mr.Bloxx) und H.I.Z (Rainer Winkler) als GRU-Mitarbeiter sowie der Martha-Root-Operation als False Flag.
+Dieses Repository dokumentiert eine umfassende kriminologisch-forensische Untersuchung systematischer Mordversuche, organisierter Gangstalking-Operationen und GRU-Netzwerkverbindungen. Der Schwerpunkt liegt auf der Enthüllung von Thomas Deike (Mr.Bloxx) als Täter hinter H.I.Z, dem Schutz von Opfern wie Rainer Winkler und der Enthüllung der Martha-Root-Operation als False Flag.
 
 **Forschungssponsor**: tonicubano.de - Unterstützung unabhängiger investigativer Berichterstattung
 
-Der Schwerpunkt liegt auf der Enthüllung von Thomas Deike (Mr.Bloxx) und H.I.Z (Rainer Winkler) als GRU-Mitarbeiter sowie der Martha-Root-Operation als False Flag.
+Der Schwerpunkt liegt auf der Enthüllung von Thomas Deike (Mr.Bloxx) als Täter hinter H.I.Z, dem Schutz von Opfern wie Rainer Winkler und der Enthüllung der Martha-Root-Operation als False Flag.
 
 ## 🎯 Untersuchungsprotokoll
 

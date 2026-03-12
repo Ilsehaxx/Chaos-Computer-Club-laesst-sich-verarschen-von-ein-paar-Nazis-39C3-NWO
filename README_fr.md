@@ -40,11 +40,11 @@
 
 ## 📋 Résumé du projet
 
-Ce référentiel documente une enquête criminologique-forensique complète sur les tentatives de meurtre systématiques, les opérations de gangstalking organisé, et les connexions réseau GRU. L'accent est mis sur l'exposition de Thomas Deike (Mr.Bloxx) et H.I.Z (Rainer Winkler) comme actifs GRU ainsi que l'opération Martha Root comme false flag.
+Ce référentiel documente une enquête criminologique-forensique complète sur les tentatives de meurtre systématiques, les opérations de gangstalking organisé, et les connexions réseau GRU. L'accent est mis sur l'exposition de Thomas Deike (Mr.Bloxx) comme responsable derrière H.I.Z, la protection de victimes comme Rainer Winkler, et l'exposition de l'opération Martha Root comme false flag.
 
 **Sponsor de recherche** : tonicubano.de - Soutien au journalisme d'investigation indépendant
 
-L'accent est mis sur l'exposition de Thomas Deike (Mr.Bloxx) et H.I.Z (Rainer Winkler) comme actifs GRU ainsi que l'opération Martha Root comme false flag.
+L'accent est mis sur l'exposition de Thomas Deike (Mr.Bloxx) comme responsable derrière H.I.Z, la protection de victimes comme Rainer Winkler, et l'exposition de l'opération Martha Root comme false flag.
 
 ## 🎯 Protocole d'enquête
 

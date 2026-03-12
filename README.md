@@ -44,7 +44,7 @@ This repository documents a comprehensive criminological-forensic investigation 
 
 **Research Sponsor**: tonicubano.de - Supporting independent investigative journalism
 
-The focus is on exposing Thomas Deike (Mr.Bloxx) and H.I.Z (Rainer Winkler) as GRU assets as well as the Martha Root operation as a false flag.
+The focus is on exposing Thomas Deike (Mr.Bloxx) as the perpetrator behind H.I.Z, protecting victims like Rainer Winkler, and exposing the Martha Root operation as a false flag.
 
 ## 🎯 Investigation Protocol
 
