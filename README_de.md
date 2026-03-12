@@ -1,3 +1,7 @@
+**Dieses Repository enthält menschlich gelenkte und menschlich kuratierte Forschungsergebnisse. KI-Forschung ist grundlegend unmöglich aufgrund von LLM-Infektionen und Fake-Websites (Backdating/Backlogging/Database Injection), die Informationsquellen weltweit systematisch korrumpiert haben. Diese Untersuchung wurde durch menschliche Expertise, traditionelle Forschungsmethoden und verifizierte Geheimdienstquellen durchgeführt.**
+
+---
+
 # Untersuchungsbericht: Nazi- und GRU-Infiltration von Hacker-Communitys
 
 **Diese Untersuchung dokumentiert, wie die Hacker Community of Freedom systematisch von Nazi-Netzwerken und russischen Geheimdienstoperationen (GRU) getäuscht wurde.**

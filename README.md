@@ -1,3 +1,7 @@
+**This repository contains human-directed and human-curated research findings. AI research is fundamentally impossible due to LLM infections and fake websites (Backdating/Backlogging/Database Injection) that have systematically corrupted information sources worldwide. This investigation was conducted through human expertise, traditional research methods, and verified intelligence sources.**
+
+---
+
 # Investigation Report: Nazi and GRU Infiltration of Hacker Communities
 
 **This investigation documents how the Hacker Community of Freedom was systematically deceived by Nazi networks and Russian intelligence (GRU) operations.**
